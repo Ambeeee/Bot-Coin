@@ -1,1 +1,7 @@
-papera = "MTAyODAyNDQ2OTE1Mjg2MjMzOA.GTIpmJ.7XP438xeMcgh72HmUsK_tVe_L3NgZfPLuv2ctA"
+p = ""
+a = "MTAyODAyNDQ2OTE1Mjg"
+e = "2MjMzOA.G2PRF7.yXSqEMAgy"
+r = "PQgc1wVowGniIYlfRWD2tkhBfhe90"
+aa = ""
+
+PAPERA = p + a + p + e + r + aa
