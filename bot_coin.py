@@ -2,6 +2,7 @@ import discord
 from discord import Client
 from discord.ext.tasks import loop
 from crypto_reader import btc_attuale, eth_attuale
+from papera import papera
 
 
 TOKEN = "MTAyODAyNDQ2OTE1Mjg2MjMzOA.Gap6Wi.5d9Llm7cMFt2r0iVVsN67WHOO5oSNBxwxt7QGo"
