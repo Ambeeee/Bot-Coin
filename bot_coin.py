@@ -4,7 +4,7 @@ from discord.ext.tasks import loop
 from crypto_reader import btc_attuale, eth_attuale
 
 
-TOKEN = "MTAyODAyNDQ2OTE1Mjg2MjMzOA.Gmkom5.Ef3c27Wb1CtcfdEE6pPSpgm7VAglWAF9KAjml8"
+TOKEN = "MTAyODAyNDQ2OTE1Mjg2MjMzOA.Gap6Wi.5d9Llm7cMFt2r0iVVsN67WHOO5oSNBxwxt7QGo"
 TEST_ID = 831169527529734194
 MAIN_ID = 798566791172456518
 
