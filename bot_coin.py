@@ -2,10 +2,8 @@ import discord
 from discord import Client
 from discord.ext.tasks import loop
 from crypto_reader import btc_attuale, eth_attuale
-from papera import papera
+from papera import PAPERA
 
-
-TOKEN = "MTAyODAyNDQ2OTE1Mjg2MjMzOA.Gap6Wi.5d9Llm7cMFt2r0iVVsN67WHOO5oSNBxwxt7QGo"
 TEST_ID = 831169527529734194
 MAIN_ID = 798566791172456518
 
@@ -85,4 +83,4 @@ Per impostare un target di prezzo: `$target <nuovo target>`
         """)
         return
 
-bot.run(TOKEN)
+bot.run(PAPERA)
